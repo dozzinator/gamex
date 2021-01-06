@@ -3,6 +3,14 @@ from pymongo import MongoClient
 
 app = Flask(__name__)
 
+if __name__ = "__main__":
+    app.secret_key = 'fwe9558jffwiru1402mfj35gregw'
+    app.config['SESSION_TYPE'] = 'filesystem'
+
+    sess.init_app(app)
+
+    app.debug = True
+    app.run()
 
 # Database
 
