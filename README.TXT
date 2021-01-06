@@ -6,17 +6,12 @@
 
 ## NEEDS
 
-- EMMET // Abbre
-
-
-### GAME X REQ ###
-- Program Language: Python
+## GAME X REQ ##
+- Languages: Python, PHP, CSS, JS
 - Database: MongoDB
 
-
-
 ## Profile
-- Username
+- Username 
 - Family 
 - Loyalty
 - Experience = XP
